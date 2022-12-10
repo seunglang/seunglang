@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=40&pause=1000&color=28F748&center=true&vCenter=true&width=1200&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=55&pause=1000&color=28F748&center=true&vCenter=true&width=1200&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
 <br>
 
  <!-- 
