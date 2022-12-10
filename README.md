@@ -30,6 +30,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue" width=49.2% />
 </a>
 </div>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seunglang&theme=vue&bg_color=E8F0E0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
