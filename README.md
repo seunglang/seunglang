@@ -15,11 +15,18 @@
 
 <div align=center> 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&width=49.2%&theme=vue) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&width=49.2%&theme=vue)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)](https://github.com/metleeha)
 
 </div>
 
+<div align="center">
+
+  <a href="https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)</a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)](https://github.com/metleeha)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
+</div>
 
 
 <!-- [![seunglang's github activity graph](https://activity-graph.herokuapp.com/graph?username=seunglang&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
