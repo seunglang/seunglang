@@ -12,10 +12,10 @@
 </div>-->
 
 
-<div align="center">
+<div align="center" dir="auto">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&width=200&theme=vue) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&width=200&theme=vue)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)](https://github.com/metleeha)
 
 </div>
 
