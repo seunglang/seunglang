@@ -1,9 +1,9 @@
 
 
+<div align=center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=40&pause=1000&color=28F748&text-justify-center&vCenter=true&width=700&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
+<br> </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=40&pause=1000&color=28F748&text-justify-center&vCenter=true&width=442&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
-<br>
- 
  <!-- 
  ![](https://capsule-render.vercel.app/api?section=header&type=waving&color=B1F3B1&fontColor=54CAFD&fontSize=30&animation=twinkling&text=Dream%20to%20future%20Technology)
 -->
