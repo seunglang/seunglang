@@ -1,12 +1,15 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=40&pause=1000&color=28F748&center=true&vCenter=true&width=442&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
 
 <div align=center> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/seungwon987@gmail.com-F14228?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwon987@gmail.com"/></a>
 </div><br>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Im+seunglang&Vcenter=true&font=RubikVinyl&size=40)](https://git.io/typing-svg)
-
+ <!-- 
+ ![](https://capsule-render.vercel.app/api?section=header&type=waving&color=B1F3B1&fontColor=54CAFD&fontSize=30&animation=twinkling&text=Dream%20to%20future%20Technology)
+-->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Im+seunglang&Vcenter=true&font=RubikVinyl&size=40)](https://git.io/typing-svg)
+-->
 
 ![seunglang's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)
