@@ -1,23 +1,25 @@
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=55&pause=1000&color=28F748&center=true&vCenter=true&width=1200%&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
-<br>
+<br><br><br><br><br>
 
  <!-- 
  ![](https://capsule-render.vercel.app/api?section=header&type=waving&color=B1F3B1&fontColor=54CAFD&fontSize=30&animation=twinkling&text=Dream%20to%20future%20Technology)
 -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Im+seunglang&Vcenter=true&font=RubikVinyl&size=40)](https://git.io/typing-svg)
--->
 
 <div align=center> 
-![seunglang's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)
+</div>-->
+
+
+<div align=center>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)](https://github.com/metleeha)
+
 </div>
 
 [![seunglang's github activity graph](https://activity-graph.herokuapp.com/graph?username=seunglang&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br><br><br>
 
 
 <div align=center> 
