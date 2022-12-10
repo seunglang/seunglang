@@ -7,9 +7,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Im+seunglang;)](https://git.io/typing-svg)
 
+<div align=center>
 ![seunglang's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)
-
+</div>
   
   
 <!--
