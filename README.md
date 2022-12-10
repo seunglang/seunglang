@@ -7,8 +7,8 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Im+seunglang&Vcenter=true&font=RubikVinyl&size=40)](https://git.io/typing-svg)
 
 <div align=center> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&width=49.2%&style=max-width&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&width=49.2%&style=max-width&layout=compact&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&width=850&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&width=350&layout=compact&theme=vue)
 </div>-->
 
 
