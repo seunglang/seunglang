@@ -1,15 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=50&pause=1000&color=53B584&center=true&vCenter=true&width=1200&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=50&pause=1000&color=53B584&center=true&vCenter=true&width=500&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
 <br><br><br><br><br>
 
  <!-- 
  ![](https://capsule-render.vercel.app/api?section=header&type=waving&color=B1F3B1&fontColor=54CAFD&fontSize=30&animation=twinkling&text=Dream%20to%20future%20Technology)
 -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Im+seunglang&Vcenter=true&font=RubikVinyl&size=40)](https://git.io/typing-svg)
+-->
 
 <div align=center> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&width=850&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&width=350&layout=compact&theme=vue)
-</div>-->
+![Anurag's gitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)
+</div>
 
 
 <div align=center> 
