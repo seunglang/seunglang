@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=50&pause=1000&color=53B584&center=true&vCenter=true&width=500&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=50&pause=1000&color=53B584&center=true&vCenter=true&width=1200&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
 <br><br><br><br><br>
 
  <!-- 
@@ -7,10 +7,10 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Im+seunglang&Vcenter=true&font=RubikVinyl&size=40)](https://git.io/typing-svg)
 -->
 
-<div align=center> 
+<!-- <div align=center> 
 ![Anurag's gitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)(https://github.com/metleeha)
+</div> -->
 
 
 <div align=center> 
@@ -22,7 +22,7 @@
 
 
 <hr>
-[![seunglang's github activity graph](https://activity-graph.herokuapp.com/graph?username=seunglang&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![seunglang's github activity graph](https://activity-graph.herokuapp.com/graph?username=seunglang&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <div align=center> 
@@ -30,7 +30,9 @@
 </div><br>  
   
   
-  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
   
  
   
