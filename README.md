@@ -35,10 +35,15 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seunglang&theme=vue&bg_color=E8F0E0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
+
+<!--
 <div align=center> 
-<a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/Gmail-F14228?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwon987@gmail.com"/></a>
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunglang&count_bg=%2365D36E&title_bg=%23D9CBCB&icon=googlefit.svg&icon_color=%23E57777&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+<a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/Gmail-F14228?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwon987@gmail.com" /></a>
 </div>
-  
+-->
  
   
   
