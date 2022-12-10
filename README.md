@@ -5,10 +5,11 @@
 <a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/seungwon987@gmail.com-F14228?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwon987@gmail.com"/></a>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Im+seunglang;)](https://git.io/typing-svg)
 
 ![seunglang's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)
 
-  
   
   
 <!--
