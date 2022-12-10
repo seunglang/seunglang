@@ -5,7 +5,7 @@
 <a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/seungwon987@gmail.com-F14228?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwon987@gmail.com"/></a>
 </div>
 <div align=center> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=tokyonight)
  </div>
   
   
