@@ -2,7 +2,7 @@
 
 <div align=center> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/seungwon987@gmail.com-FF7D69?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwon987@gmail.com"/></a>
+<a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/seungwon987@gmail.com-F14228?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwon987@gmail.com"/></a>
 </div>
 
 <!--
