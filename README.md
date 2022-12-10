@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<a href="mailto:자신의이메일"><img src="https://img.shields.io/badge/뱃지이름-뱃지색상?style=flat-square&logo=로고이미지이름&logoColor=white&link=mailto:자신의이메일"/></a>
+<a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/seungwon987@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwon987@gmail.com"/></a>
 
 
 <!--
