@@ -10,12 +10,11 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Im+seunglang&Vcenter=true&font=RubikVinyl&size=40)](https://git.io/typing-svg)
 -->
 
-
+<div align=center> 
 ![seunglang's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)
 
 [![seunglang's github activity graph](https://activity-graph.herokuapp.com/graph?username=seunglang&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div align=center> 
 </div>
 <br><br><br>
 
