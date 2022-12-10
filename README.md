@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+<div align=center> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/seungwon987@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwon987@gmail.com"/></a>
-
+</div>
 
 <!--
 **seunglang/seunglang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
