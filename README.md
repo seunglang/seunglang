@@ -31,7 +31,7 @@
 </a>
 </div>
 
-<!-- [![seunglang's github activity graph](https://activity-graph.herokuapp.com/graph?username=seunglang&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seunglang&theme=vue&bg_color=FBF6F6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
 <div align=center> 
