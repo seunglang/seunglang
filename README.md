@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/seunglang">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&width=49.2&theme=vue)</a>
+  <a href="https://github.com/seunglang">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue)</a>
   <a href="https://github.com/seunglang">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)](https://github.com/metleeha)</a>
 
 </div>
