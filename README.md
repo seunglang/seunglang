@@ -35,7 +35,7 @@
 
 <br><br>
 <div align=center> 
-<a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/seungwon987@gmail.com-F14228?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwon987@gmail.com"/></a>
+<a href="mailto:seungwon987@gmail.com"><img src="https://img.shields.io/badge/seungwon987@gmail.com-F14228?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gmail"/></a>
 </div>
   
  
