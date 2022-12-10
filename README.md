@@ -15,8 +15,8 @@
 
 <div align=center> 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true& style= "width: 49.2%;"&theme=vue) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&style= "width: 49.2%;"&theme=vue)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunglang&show_icons=true&theme=vue& style= "width: 49.2%") 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&layout=compact&theme=vue)& style= "width: 49.2%"](https://github.com/metleeha)
 
 </div>
 
