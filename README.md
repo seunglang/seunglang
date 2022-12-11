@@ -1,4 +1,4 @@
-<br><br><br>
+<br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Laila&size=50&pause=1000&color=53B584&center=true&vCenter=true&width=1200&lines=Dream+to+Future+Technology)](https://git.io/typing-svg)
 <br><br><br><br><br>
 
